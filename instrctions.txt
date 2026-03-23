@@ -1,0 +1,9 @@
+So it looks like you want to use unblocked websites, most likely on a supervised computer? Alright.
+
+1. The first thing you need to do is go to https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default and remove
+All the code that is already there is because it is an example.
+
+2. Next, copy the code in index.html from my repository, then paste it into the text box of W3Schools.
+Now all you have to do is click run on the bar on top and enjoy all the games.
+
+FYI: There is minecraft but an older version.
